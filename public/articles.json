@@ -1,0 +1,12 @@
+[
+  {
+    "date": "01.04.2025",
+    "name": "Пример статьи",
+    "preview_image": "preview.jpg",
+    "full_image": "full.jpeg",
+    "preview_image2": "preview_2.jpg",
+    "full_image2": "full_2.jpeg",
+    "shortDesc": "Краткое описание",
+    "desc": "Полное описание"
+  }
+]

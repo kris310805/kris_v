@@ -41,6 +41,41 @@
             max-width: 1200px;
             margin: 0 auto;
         }
+
+        .articles-table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-top: 20px;
+        }
+
+        .articles-table th, .articles-table td {
+            border: 1px solid #ddd;
+            padding: 8px;
+            text-align: left;
+        }
+
+        .articles-table th {
+            background-color: #f2f2f2;
+        }
+
+        .gallery-container {
+            text-align: center;
+            margin-top: 30px;
+        }
+
+        .gallery-image {
+            max-width: 100%;
+            height: auto;
+            margin: 20px 0;
+        }
+
+        .back-link {
+            display: inline-block;
+            margin-top: 20px;
+            color: #333;
+            text-decoration: none;
+            font-weight: bold;
+        }
     </style>
 </head>
 <body>
